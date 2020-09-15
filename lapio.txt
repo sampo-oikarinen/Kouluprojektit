@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 muutos tähän x 2 9
 =======
@@ -14,3 +15,6 @@ ei committia
 
 
 ihan loppuun jotain
+=======
+Ensimmäinen uusi rivi
+>>>>>>> ee9e107ad5f7d4c48ca9374b8124abcb43e6a119
