@@ -11,3 +11,6 @@ muutos tähän x 2 9
 
 ei committia
 >>>>>>> Stashed changes
+
+
+ihan loppuun jotain
